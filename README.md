@@ -71,3 +71,5 @@
 
 
 <h2 id="howItWorks">How it works?</h2>
+
+<p>The code itself is composed of three functions, one to update the stocks of the variations whenever the parent stock is updated, another when a variation is purchased its respective value is removed from the parent stock, and the last one to allow only one variation can be in the cart at a time to prevent the stock from going negative.</p>
