@@ -41,4 +41,11 @@
   <li>$value3 = "100";</li> 
 </ul>
 
+<h3>$stock_value</h3>
+
+<p>This variable is the stock value represented by a variation.</p>
+<p>For example if the amount of stock represented by $value1 is equal to 20 you must have a variable $stock_value with a value of 20.Exemple:</p>
+
+<img src="images/stockValue.png" alt="stockValue">
+
 <h2 id="howItWorks">How it works?</h2>
