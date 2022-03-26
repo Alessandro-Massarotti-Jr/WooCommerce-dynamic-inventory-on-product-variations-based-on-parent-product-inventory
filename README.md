@@ -48,4 +48,20 @@
 
 <img src="images/stockValue.png" alt="stockValue">
 
+<h3>In your Wordpress admin page:</h3>
+
+<p>steps to be taken in creating the product:</p>
+
+<ul>
+  <li>the product must be of the variable type</li> 
+  <li>add the category to product</li>
+  <li>add the attributes</li> 
+  <li>create variations for the products</li> 
+  <li>enable inventory management on variations</li>
+  <li>enable inventory management on parent product</li>
+  <li>add an inventory value in the parent product</li>
+  <li>publish or update the product</li>
+</ul>
+
+
 <h2 id="howItWorks">How it works?</h2>
