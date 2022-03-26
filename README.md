@@ -23,4 +23,22 @@
 
 <p>This variable is a string with the values it has in the name of the attributes of the variations, maybe with this image it will be clearer:</p>
 
+<img src="images/attributes.png" alt="Attributes image">
+
+<p>The values attribute has the following values:</p>
+
+<ul>
+  <li>20</li> 
+  <li>50</li>
+  <li>100</li> 
+</ul>
+
+<p>in this case you can create 3 $value variables ($value1, $value2, $value3) each with one of these values example:</p>
+
+<ul>
+  <li>$value1 = "20";</li> 
+  <li>$value2 = "50";</li>
+  <li>$value3 = "100";</li> 
+</ul>
+
 <h2 id="howItWorks">How it works?</h2>
